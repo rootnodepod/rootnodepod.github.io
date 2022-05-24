@@ -13,4 +13,5 @@ tags:
   - Data science
 ---
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=I0rMsj5uv4Q?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube-player.html id="I0rMsj5uv4Q" %}
+

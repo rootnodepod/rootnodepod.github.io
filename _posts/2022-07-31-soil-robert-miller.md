@@ -19,10 +19,4 @@ Robert is a horticulturist and soil enthusiast. We discuss the current state of 
 
 
 ### Robert's essays:
-
-[The Soul of the Earth]{{ site.baseurl }}{% link _pages/The-Soul-of-the-Earth.md %}
-
-[The Soul of the Earth]({% link _pages/The-Soul-of-the-Earth.md %})
-
-
-<!-- [Link to a page]({% link /_pages/The-Soul-of-the-Earth.md %}) -->
+[The Soul of the Earth]({% link _pages/The-Soul-of-the-Earth.md %}) 

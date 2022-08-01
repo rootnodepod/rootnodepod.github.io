@@ -19,4 +19,8 @@ Robert is a horticulturist and soil enthusiast. We discuss the current state of 
 
 
 ### Robert's essays:
-[The Soul of the Earth]({% link _pages/The-Soul-of-the-Earth.md %}) 
+[The Soul of the Earth]({% link _pages/The-Soul-of-the-Earth.md %})<br>
+[The War on the Land]({% link _pages/The-War-on-the-Land.md %})<br>
+[Dying under iron]({% link _pages/Dying-under-iron.md %})<br>
+[Mulch for survival]({% link _pages/Mulch-for-survival.md %})<br>
+[Eco rant - what is to be undone]({% link _pages/Eco-rant.md %})<br>

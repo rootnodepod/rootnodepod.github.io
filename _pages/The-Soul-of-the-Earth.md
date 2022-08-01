@@ -1,4 +1,8 @@
-The Soul of the Earth
+---
+permalink: /the-soul-of-the-earth/
+title: "The Soul of the Earth"
+toc: true
+---
 
 On March 21st, 1935, Hugh Hammond Bennett stood up before the United States Congress to testify about the need for a soil conservation service. As he spoke, the sky darkened. The sun went into hiding and the air turned heavy with grit. The soil from the Great Plains, over a thousand kilometres away, rained down as dust on Washington, as it did over much the country that year. It must have felt apocalyptic. And indeed, it was.  
 
@@ -11,11 +15,24 @@ Just over a month later Franklin Delano Roosevelt signed the Soil Conservation A
 FDR was neither the first nor the last to make such an observation. More than 3,000 years before, it was written in the Vedas, one of the world’s oldest religious texts, that “Upon this handful of soil our survival depends. Husband it and it will grow our food, our fuel, and our shelter, and surround us with beauty. Abuse it and the soil will collapse and die, taking humanity with it.”
 
 Indeed, this is what is happening now. In 2015 the Food and Agricultural Organisation of the United Nations conducted the first ever global assessment on the state of the world’s soils. They estimated that a third of the earth’s soils are already severely degraded, a figure that could rise as high as 90% by 2050 if current trends continue. The FAO estimates that 75 billion tonnes of soil are eroded every year from agricultural lands alone, the equivalent of an entire football pitch worth of soil lost to the earth every 5 seconds. 
+
 Today we are degrading soil faster than at any other time in our history, but the process is nothing new. Over 150 years ago, Karl Marx noted that capitalism “disturbs the circulation of matter between man and the soil, i.e., prevents the return to the soil of its elements consumed by man in the form of food and clothing; it therefore violates the conditions necessary to the lasting fertility of the soil.” But the problems of soil degradation and erosion long predate capitalism. In fact, it is a story as old as, and intimately bound up with, the rise and fall of civilisations.
+
 More than 2,000 years before, Plato noted that the soils of his native Attica, the natural fertility of which had raised up Athens as a regional power, had been devastated by deforestation and excessive cultivation. He wrote that “the rich, soft soil has all run away leaving the land nothing but skin and bone.” Meanwhile, in Rome, Pliny the Elder surveyed the state of the soils in the early imperial period and concluded that the “large estates have been the ruin of Italy, and are now proving the ruin of the provinces too.” 
+
 It is by now well known that no civilisation can survive for long while degrading its soil. And today, since our civilisation encompasses the whole earth, there is nowhere for us to turn in search of fresh soils to devour. With the world’s soils already depleted, our agriculture is dependent on the use of artificial fertilisers, mined from the earth and manufactured using fossil fuels. These are a pale substitute for the vitality of living soils rich in organic matter and, at best, they only delay the inevitable. 
 
 There is no escaping the fact that when we destroy the soil, we destroy also ourselves. This is not only true in the literal sense, that the soil is the foundation of all life, which originates and ends in the soil, where it is recycled so that it can be resurrected as all other life. But it is also true in a more metaphorical sense, in that all life is connected and what we do to the life that lives in the soil we do also to all other living beings, including ourselves. 
+
 For soil is not inert matter, merely a medium for plant growth and a reservoir for nutrient inputs. Rather, soil is a living ecosystem, a community of living beings that forms the basis of all other ecosystems on earth. A single teaspoon of healthy soil contains more living organisms than there are people on earth, from as many as 50,000 different species. In a handful of healthy soil, there are more different types of bacteria than there are animals in the Amazon. And that is saying nothing of the worms, fungi, protozoa, nematodes, mites, springtails, beetles, centipedes, slugs, earwigs, and all the other life forms that make up the soil food web. 
+
 Terms like soil erosion and soil degradation do no justice to reality that they represent. For they are clinical terms, devoid of life, like the soils they describe. Soils that have been degraded no longer contain diverse populations of earthworms, fungi, bacteria and all the other life forms that make up the soil ecosystem. Such soils are unable to support diverse populations of plants, who rely on a range of associations with soil micro-organisms in order to survive and to prosper. They are therefore unable to support diverse populations of animals, including ourselves, who rely in turn on a series of inter-relations that have their foundations in the photosynthetic abilities of plants. In other words, degraded soils are places that can support no life. Perhaps the term earth genocide would be more appropriate. 
+
 But it is not too late to change course. We know how to build back the soil and how to protect what is left of the soil ecosystem. At the most basic level, all we need to do is add organic matter, at least as much as we take away. Feed the soil life and it will in turn feed all other life. Eventually the soil will regenerate itself regardless, as our bodies, along with those of all the other beings we are exterminating, will return to the earth and nourish the living soil. But if we hope to survive as a species then we need to take matters into our own hands and begin consciously and deliberately to build back the biodiversity in the soil, as the first step in building back the biodiversity of the whole earth. 
+
+#### Robert Miller
+
+[The War on the Land]({% link _pages/The-War-on-the-Land.md %})<br>
+[Dying under iron]({% link _pages/Dying-under-iron.md %})<br>
+[Mulch for survival]({% link _pages/Mulch-for-survival.md %})<br>
+[Eco rant - what is to be undone]({% link _pages/Eco-rant.md %})<br>

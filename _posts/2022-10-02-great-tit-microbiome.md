@@ -1,8 +1,8 @@
 ---
 title: "3: The Great Tit Microbiome - Shane Somers"
 header:
-  image: /assets/images/pod2-cover-photo.png
-  og_image: /assets/images/pod2-cover-photo.png
+  image: /assets/images/great-tit-microbiome-youtube-thumbnail.jpg
+  og_image: /assets/images/great-tit-microbiome-youtube-thumbnail.jpg
 categories:
   - Podcast
 tags:

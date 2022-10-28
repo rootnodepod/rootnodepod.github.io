@@ -17,7 +17,8 @@ Tanya is a virology PhD student studying transduction in bacteria and their phag
 
 <div id="buzzsprout-player-11509271"></div><script src="https://www.buzzsprout.com/1803691/11509271-3-bacteriophage-transduction-molecular-piracy-tanya-borodovich.js?container_id=buzzsprout-player-11509271&player=small" type="text/javascript" charset="utf-8"></script>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=YpoLcmC0Xj8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpoLcmC0Xj8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 Tanya's paper on transduction:
 

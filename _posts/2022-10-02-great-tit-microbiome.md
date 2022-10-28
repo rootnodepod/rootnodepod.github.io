@@ -13,7 +13,7 @@ tags:
   - Great Tits
 ---
 
-Shane is an ornithologist, ecologist and microbiome scientist based in UCC where he researches the microbiome of the Great Tit. In this episode we chat about Shane's time as a research assistant monitoring Sparrow-weaver birds in Africa, the experimental design of studying the microbiome of Great Tit nestlings in Cork during the 20 day period before they fledge their nest, does the microbiome predict fitness in these birds and many more fascinating titbits!
+Shane is an ornithologist, ecologist and microbiome PhD student based in UCC where he researches the microbiome of the Great Tit. In this episode we chat about Shane's time as a research assistant monitoring Sparrow-weaver birds in Africa, the experimental design of studying the microbiome of Great Tit nestlings in Cork during the 20 day period before they fledge their nest, does the microbiome predict fitness in these birds and many more fascinating titbits!
 
 <div id="buzzsprout-player-11422479"></div><script src="https://www.buzzsprout.com/1803691/11422479-2-the-great-tit-microbiome-shane-somers.js?container_id=buzzsprout-player-11422479&player=small" type="text/javascript" charset="utf-8"></script>
 

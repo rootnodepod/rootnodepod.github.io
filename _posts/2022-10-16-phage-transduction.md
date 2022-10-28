@@ -1,5 +1,5 @@
 ---
-title: "4: Bacteriophage Transduction & Molecular Piracy- Tatiana Borodovich"
+title: "4: Bacteriophage Transduction & Molecular Piracy - Tatiana Borodovich"
 header:
   image: /assets/images/tanya-youtube-thumbnail.jpg
   og_image: /assets/images/tanya-youtube-thumbnail.jpg

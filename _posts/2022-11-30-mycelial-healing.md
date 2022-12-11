@@ -19,7 +19,7 @@ Clodagh is a certified psychedelic therapist, mother of mushrooms and a psychona
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Y1Z0BXNg1Yw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed?v=Y1Z0BXNg1Yw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Follow Clodagh on insta for mushroom updates and general good vibes:

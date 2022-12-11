@@ -19,5 +19,5 @@ Caroline is a PostDoc studying the effects of human pressure across scales and e
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PWBNZ3kU3tY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed?v=PWBNZ3kU3tY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
